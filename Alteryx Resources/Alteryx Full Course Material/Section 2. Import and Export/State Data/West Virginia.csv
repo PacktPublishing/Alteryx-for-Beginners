@@ -1,0 +1,5 @@
+Row ID,Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Country/Region,City,State,Postal Code,Region,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+7895,CA-2021-124744,2021-06-21,2021-06-25,Standard Class,EH-14125,Eugene Hildebrand,Home Office,United States,Wheeling,West Virginia,26003,East,OFF-BI-10002852,Office Supplies,Binders,Ibico Standard Transparent Covers,82.4,5,0,40.376
+7896,CA-2021-124744,2021-06-21,2021-06-25,Standard Class,EH-14125,Eugene Hildebrand,Home Office,United States,Wheeling,West Virginia,26003,East,OFF-BI-10000145,Office Supplies,Binders,Zipper Ring Binder Pockets,6.24,2,0,3.0576
+7897,CA-2021-124744,2021-06-21,2021-06-25,Standard Class,EH-14125,Eugene Hildebrand,Home Office,United States,Wheeling,West Virginia,26003,East,OFF-PA-10001970,Office Supplies,Paper,Xerox 1908,447.84,8,0,219.4416
+9487,CA-2021-130505,2021-10-12,2021-10-12,Same Day,NF-18385,Natalie Fritzler,Consumer,United States,Wheeling,West Virginia,26003,East,FUR-TA-10001932,Furniture,Tables,"Chromcraft 48"" x 96"" Racetrack Double Pedestal Table",673.344,3,0.3,-76.9536
